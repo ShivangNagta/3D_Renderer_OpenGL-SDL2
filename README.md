@@ -1,5 +1,5 @@
 # OpenGL Renderer
-It is the part of the C++ Engine, I have been working on (https://github.com/ShivangNagta/PhysicsEngine_OpenGL_SDL2). It uses the Blinn Phong Reflection Model for now, which includes ambient, diffuse and specular lighting, all calculated on the Fragment Shader. <br/>
+It is a 3D renderer, which can read external obj files, map the textures according to the UV data and calculate lighting/shadows from the surface normal data. It is the part of the C++ Engine ,I have been working on (https://github.com/ShivangNagta/PhysicsEngine_OpenGL_SDL2). It uses the Blinn Phong Reflection Model for now, which includes ambient, diffuse and specular lighting, all calculated on the Fragment Shader. <br/>
 Currently not for deployment, but you can use it in windows (keep the Mingw setup). <br/>
 Directly run the executable - bin\main  <br/>
 
