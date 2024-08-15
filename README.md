@@ -3,12 +3,12 @@ It is a 3D renderer, which can read external obj files, map the textures accordi
 Currently not for deployment, but you can use it in windows (keep the Mingw setup). <br/>
 Makefile is configured for compilation. <br/>
 
-Libraries used - 
-SDL2
-glad
-glm
-imgui
-stb_image
+Libraries used - <br/>
+SDL2<br/>
+glad<br/>
+glm<br/>
+imgui<br/>
+stb_image<br/>
 
 Compile command - make <br/>
 Run the executable - bin\main <br/>
