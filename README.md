@@ -4,11 +4,11 @@ Currently not for deployment, but you can use it in windows (keep the Mingw setu
 Makefile is configured for compilation. <br/>
 
 Libraries used - <br/>
-SDL2<br/>
-glad<br/>
-glm<br/>
-imgui<br/>
-stb_image<br/>
+SDL2 (Providing Window functionalities)<br/>
+glad (For extracting OpenGL functions)<br/>
+glm (For vector/matrix math calculations)<br/>
+imgui (GUI Library)<br/>
+stb_image (Reading image files easily)<br/>
 
 Compile command - make <br/>
 Run the executable - bin\main <br/>
